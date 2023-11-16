@@ -1,9 +1,3 @@
-// import {
-//   listContacts,
-//   getContactById,
-//   removeContact,
-//   addContact,
-// } from "./contacts.js";
 import { listContacts } from "./controllers/contacts/indexContacts.js";
 import { getContactById } from "./controllers/contacts/showContacts.js";
 import { addContact } from "./controllers/contacts/createContacts.js";
